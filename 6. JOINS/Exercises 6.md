@@ -1,0 +1,6 @@
+Exercise 6.01: You are a store manager that needs to extract the details of all the orders, along with the customer details from the PACKT_ONLINE_DATABASE.
+Exercise 6.02: The store wants the list of customers, along with their orders, and also wants to include customers who haven't purchased anything from the store yet.
+Exercise 6.03: The store manager now wants to analyze the payment data for the customers. Specifically, the manager wishes to retrieve only those orders that have payments with payment information. 
+Exercise 6.04: Consider that we have a table called Facecards, with a column called suits, and a table called CardSuite with a column called cardvalue. 
+Exercise 6.05: The store manager wants a telephonic feedback survey from everyone who the store employees work with. This implies that there's a list of suppliers and customers and their full names, along with their contact numbers.
+Activity 6.01: The store manager notices that there are some complaints about incorrectly priced orders by customers. He wants a report that contains the order's details, along with the product prices, in order to investigate this issue. Write a query to obtain such a result.
